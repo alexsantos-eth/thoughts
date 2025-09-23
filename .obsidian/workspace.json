@@ -34,9 +34,18 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "50494a225de52c40",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for thoughts"
             }
           },
           {
@@ -128,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from thoughts"
             }
           },
           {
@@ -143,7 +152,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -157,22 +166,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "thoughts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of thoughts"
+            }
+          },
+          {
+            "id": "b24cd928d0a954b0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,10 +205,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88c7e00f69fa7344",
+  "active": "b24cd928d0a954b0",
   "lastOpenFiles": [
-    "thoughts.md",
     "README.md",
+    "thoughts.md",
+    "2025-09-22.md",
+    "Untitled.canvas",
     "tiempo.md",
     "consciencia.md",
     "realidad.md",
@@ -202,7 +222,6 @@
     "futuro.md",
     "material.md",
     "sabiduría.md",
-    "Untitled.canvas",
     "Apple Notes/New head puzzle.md",
     "Apple Notes/Obzidian.md",
     "Apple Notes/NIT.md",
@@ -215,7 +234,6 @@
     "Apple Notes/E-shop.md",
     "Apple Notes/Codigo BAC Gaby.md",
     "Apple Notes/Grupos.md",
-    "Apple Notes/Paggo Honduras 1.md",
     "bitbucket_import_existing_code.png",
     "Drawing.png",
     "mandalas-6218718_1280.jpeg",

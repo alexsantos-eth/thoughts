@@ -12,8 +12,7 @@
   - [[#Manifestación colectiva]]  
 - [[#Filosofía de vida]]  
 - [[#Consciencia, presente y futuro]]  
-- [[#Principios y valores]]  
-- [[#Tetrafármaco propuesto]]  
+- [[#Principios y valores]] 
 - [[#Contemplación final]]  
 
 ---
