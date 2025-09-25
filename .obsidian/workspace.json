@@ -39,13 +39,18 @@
             "id": "50494a225de52c40",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for thoughts"
+              "title": "Backlinks"
             }
           },
           {
@@ -137,12 +141,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from thoughts"
+              "title": "Outgoing links"
             }
           },
           {
@@ -166,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of thoughts"
+              "title": "Outline"
             }
           },
           {
@@ -207,9 +209,10 @@
   },
   "active": "b24cd928d0a954b0",
   "lastOpenFiles": [
-    "README.md",
-    "thoughts.md",
+    "2025-09-24.md",
     "2025-09-22.md",
+    "thoughts.md",
+    "README.md",
     "Untitled.canvas",
     "tiempo.md",
     "consciencia.md",
@@ -233,7 +236,6 @@
     "Apple Notes/graceful.md",
     "Apple Notes/E-shop.md",
     "Apple Notes/Codigo BAC Gaby.md",
-    "Apple Notes/Grupos.md",
     "bitbucket_import_existing_code.png",
     "Drawing.png",
     "mandalas-6218718_1280.jpeg",
