@@ -1,0 +1,1 @@
+marca de confirmación de solicitudes en la cadena de [eventos](evento)
