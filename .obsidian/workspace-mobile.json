@@ -1,52 +1,37 @@
 {
   "main": {
-    "id": "4caa9aa3d2721b04",
+    "id": "455021df0a44ca49",
     "type": "split",
     "children": [
       {
-        "id": "8f47a70f21f140f8",
+        "id": "164fd7f6136fcb8f",
         "type": "tabs",
         "children": [
           {
-            "id": "19e0878c19006336",
+            "id": "1442cdb5eaae2bb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "φ.md",
+                "file": "2025-10-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "φ"
-            }
-          },
-          {
-            "id": "1fc5f14a988cbc1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tiempo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tiempo"
+              "title": "2025-10-02"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "bb3b22833ca3de4b",
+    "id": "b1c0ac46cd60ea46",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "214b099dcb98c3ef",
+        "id": "91ff9e668c18a1ea",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -59,7 +44,7 @@
         }
       },
       {
-        "id": "b4810b3aeb4e52fb",
+        "id": "8d20af07d944b01c",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -76,7 +61,7 @@
         }
       },
       {
-        "id": "001341bf23fb1806",
+        "id": "17f1172bf3606aee",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -91,7 +76,7 @@
         }
       },
       {
-        "id": "a2e3932b3fa77354",
+        "id": "bebecaf1c5cae81e",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -104,16 +89,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "42c63c8eb7fbcac5",
+    "id": "e64f7596498e2462",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "2cfd4e0b2c31e627",
+        "id": "71b4da4b89a84283",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2025-09-22.md",
+            "file": "thoughts.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,12 +112,12 @@
         }
       },
       {
-        "id": "18c5678536014e62",
+        "id": "0af92ec8a108fb28",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2025-09-22.md",
+            "file": "thoughts.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -141,12 +126,12 @@
         }
       },
       {
-        "id": "7b41f77149a61989",
+        "id": "c368305c23926032",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "2025-09-22.md",
+            "file": "thoughts.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -156,7 +141,7 @@
         }
       },
       {
-        "id": "843b483449b02042",
+        "id": "945b78e87ceb9cf8",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -170,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -177,26 +163,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-importer:Open Importer": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1fc5f14a988cbc1d",
+  "active": "1442cdb5eaae2bb9",
   "lastOpenFiles": [
-    "thoughts.md",
-    "tiempo.md",
-    "consciencia.md",
-    "2025-09-24.md",
     "2025-09-22.md",
-    "futuras.md",
-    "φ.md",
+    "consciencia.md",
+    "2025-10-02.md",
+    "thoughts.md",
+    "Untitled.md",
+    "realidad.md",
+    "materia.md",
+    "futuro.md",
+    "2025-09-24.md",
     "evento.md",
     "presente.md",
-    "futuro.md",
-    "materia.md",
-    "README.md",
-    "realidad.md",
     "pasado.md",
-    "Untitled.md"
+    "README.md",
+    "tiempo.md"
   ]
 }
